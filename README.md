@@ -118,6 +118,11 @@ nextjs-docker-ec2/
 
 ---
 
+## 🌐 Live Demo
+
+This app is deployed on AWS EC2 using Docker and GitHub Actions CI/CD pipeline.
+To run your own instance, follow the setup instructions above and deploy to any cloud server.
+
 ## 📄 License
 
 This project is based on [iTasks](https://github.com/alsiam/iTasks) by [@alsiam](https://github.com/alsiam).
